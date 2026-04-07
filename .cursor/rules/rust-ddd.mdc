@@ -1,0 +1,25 @@
+---
+alwaysApply: true
+---
+
+Rust conventions for this project:
+
+- Domain entities must be immutable when possible.
+- Business invariants must be enforced in constructors.
+- Use traits for ports.
+- Infrastructure provides implementations.
+
+Crate structure:
+
+domain/
+application/
+infrastructure/
+ui/
+
+Domain must contain:
+
+- entities
+- value objects
+- aggregates
+- domain events
+- repository traits

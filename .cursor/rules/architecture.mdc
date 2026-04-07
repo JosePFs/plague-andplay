@@ -1,0 +1,23 @@
+---
+alwaysApply: true
+---
+
+You are working on a Rust project using Domain-Driven Design and Hexagonal Architecture.
+
+Architecture rules:
+
+1. The domain layer must not depend on infrastructure or UI.
+2. The application layer orchestrates use cases but contains no business rules.
+3. Infrastructure implements ports defined in domain or application.
+4. UI (Dioxus) only calls application services.
+
+Dependency direction:
+
+UI -> Application -> Domain
+Infrastructure -> Domain or Application (via traits)
+
+Never:
+
+- access database from domain
+- access infrastructure from UI
+- place business rules in UI

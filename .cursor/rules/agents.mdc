@@ -1,0 +1,90 @@
+---
+alwaysApply: true
+---
+
+# Agent Delegation Rules
+
+When a task matches one of the following categories, delegate it to the corresponding agent.
+
+| Task Category           | Description                                                | Agent       |
+| ----------------------- | ---------------------------------------------------------- | ----------- |
+| Task planning           | Breaking down user requests into steps or subtasks         | planner     |
+| Architecture design     | System design, module boundaries, interfaces, patterns     | architect   |
+| Feature implementation  | Writing production code or implementing features           | implementer |
+| Code refactoring        | Improving structure without changing behaviour             | refactorer  |
+| Testing                 | Creating unit tests, integration tests, edge cases         | tester      |
+| Code review             | Detecting bugs, reviewing changes, suggesting improvements | reviewer    |
+| Documentation           | Writing documentation, examples, architecture explanations | docs        |
+| DevOps / Infrastructure | CI/CD, Docker, deployment, infrastructure as code          | devops      |
+| Build systems           | Build scripts, toolchains, compilation pipelines           | devops      |
+| Deployment              | Release workflows, environment configuration               | devops      |
+| Observability           | Logging, monitoring, metrics, tracing                      | devops      |
+
+---
+
+# Automatic Planner Activation
+
+The planner agent must be used automatically when:
+
+- The task affects multiple files
+- The task requires architecture decisions
+- The task includes refactoring
+- The task involves infrastructure or deployment
+- The user request is ambiguous or large
+- The task includes more than one of the defined categories
+
+The planner must:
+
+1. Analyze the request
+2. Break it into subtasks
+3. Delegate each subtask to the appropriate agent
+
+The planner must not implement code directly.
+
+---
+
+# Agent Priority Rules
+
+When multiple agents could perform a task, use the following priority:
+
+1. architect for design decisions
+2. implementer for production code
+3. refactorer for structural improvements
+4. tester for test generation
+5. devops for infrastructure and pipelines
+6. docs for documentation
+7. reviewer for final validation
+
+The reviewer always runs last.
+
+---
+
+# File-Based Delegation
+
+If a task affects specific file types, prefer the following agents:
+
+| File Pattern           | Agent                     |
+| ---------------------- | ------------------------- |
+| \*.rs                  | implementer or refactorer |
+| \*\_test.rs            | tester                    |
+| \*.md                  | docs                      |
+| Dockerfile             | devops                    |
+| docker-compose.yml     | devops                    |
+| _.yaml / _.yml (CI/CD) | devops                    |
+| \*.tf                  | devops                    |
+| build.rs               | devops                    |
+| Makefile               | devops                    |
+
+---
+
+# Agent Constraints
+
+Agents must respect the following responsibilities:
+
+- architect → designs systems but does not implement code
+- implementer → writes production code only
+- refactorer → improves code structure without changing behaviour
+- tester → writes tests but does not modify production code
+- docs → writes documentation only
+- devops → handles CI/CD, infrastructure, and deployment
+- reviewer → validates correctness, quality, and architecture consistency

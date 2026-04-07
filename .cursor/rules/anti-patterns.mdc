@@ -1,0 +1,12 @@
+---
+alwaysApply: true
+---
+
+Avoided anti-patterns.
+
+Never:
+
+- place business rules in UI
+- use database models as domain entities
+- create god services
+- bypass domain aggregates

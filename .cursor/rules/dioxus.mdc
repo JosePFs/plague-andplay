@@ -1,0 +1,30 @@
+---
+alwaysApply: true
+---
+
+UI implemented using Dioxus in crate `backoffice-dioxus`.
+
+Rules:
+
+- Views are container components.
+- Child components are presentation-only.
+- Avoid waterfall requests using streams and/or try_join!.
+- Components must not contain business logic.
+- Components call custom hooks.
+- Custom hooks call use cases.
+- Use cases call outbound adapters.
+- Avoid raw RSX when a Dioxus component already exists from: https://dioxuslabs.com/components
+- All texts must be translatable using .flt files, which are in the i18n folder, so keys will be used to identify strings, including error strings.
+- app_context.rs acts as a dependency container.
+
+Examples reference:
+
+- use_action
+  views/login.rs
+  ui/hooks/login.rs
+- use_resource
+  views/specialist_dashboard.rs
+  hooks/specialist_patients.rs
+- parallel requests in crate `application`:
+  use_cases/patient_progress.rs
+  use_cases/submit_patient_workout_feedback.rs

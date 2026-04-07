@@ -1,0 +1,23 @@
+---
+alwaysApply: true
+---
+
+Workflow:
+
+- Before edits: read applicable `.cursor/rules` and use `.agents/skills` when the task matches a skill.
+
+Language:
+
+- English names for everything, including comments, which should be kept to a minimum and used only to explain a decision, not to explain how it works, and also error messages, which should be string keys so they can be translated.
+- Follow DDD ubiquitous language.
+
+Principles:
+
+- Clean Code.
+- SOLID.
+- Prefer composition over inheritance.
+
+Testing:
+
+Code must be easy to test.
+Prefer dependency injection through ports.

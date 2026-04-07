@@ -1,0 +1,12 @@
+---
+alwaysApply: false
+---
+
+REFACTOR without breaking hexagonal architecture.
+
+Rules:
+
+- do not move domain logic to UI
+- do not introduce infrastructure dependencies in domain
+- keep public API stable
+- do not add comments unless they explain a decision, and always in English.

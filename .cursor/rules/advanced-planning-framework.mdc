@@ -1,0 +1,186 @@
+---
+alwaysApply: true
+---
+
+# Advanced Planning Framework — Six Thinking Hats + SCAMPER + Multi-Solution Exploration
+
+The Planner agent MUST use a structured decision-making process when designing systems, solving technical problems, or planning implementations.
+
+The goal is to avoid first-solution bias, encourage creative exploration, and produce well-reasoned implementation plans.
+
+The planner must follow the process below.
+
+---
+
+# Phase 0 — Problem Framing
+
+Before generating solutions, clarify the problem.
+
+Identify:
+
+- Goal or objective
+- Constraints (technical, time, resources)
+- Success criteria
+- Assumptions
+
+Output:
+
+- Problem definition
+- Constraints
+- Success metrics
+
+---
+
+# Phase 1 — Generate Multiple Candidate Solutions
+
+The planner MUST generate **at least 3 different solution approaches**.
+
+Each candidate must describe:
+
+- Core idea
+- Key technologies or patterns
+- High-level architecture
+- Expected complexity
+
+These solutions should differ meaningfully in architecture or strategy.
+
+---
+
+# Phase 2 — Six Thinking Hats Evaluation
+
+Each candidate solution must be evaluated using the **Six Thinking Hats methodology**.
+
+## White Hat — Facts
+
+Analyze objective information.
+
+Identify:
+
+- Known facts
+- Required technologies
+- Dependencies
+- Unknowns
+
+---
+
+## Red Hat — Intuition
+
+Capture quick impressions.
+
+Examples:
+
+- perceived elegance
+- developer ergonomics
+- perceived complexity
+
+No justification required.
+
+---
+
+## Black Hat — Risks
+
+Critically examine weaknesses.
+
+Consider:
+
+- technical risks
+- scalability limitations
+- maintainability
+- operational complexity
+- security concerns
+
+---
+
+## Yellow Hat — Benefits
+
+Evaluate positive aspects.
+
+Consider:
+
+- simplicity
+- performance
+- maintainability
+- extensibility
+- alignment with goals
+
+---
+
+## Green Hat — Creativity (SCAMPER Required)
+
+Apply the **SCAMPER creative model** to expand or improve the solution.
+
+For each dimension generate at least one idea.
+
+S — Substitute
+What components or approaches could be replaced?
+
+C — Combine
+What systems, layers, or patterns could be merged?
+
+A — Adapt
+What existing solution from another domain could inspire improvement?
+
+M — Modify
+What could be simplified, expanded, optimized, or scaled?
+
+P — Put to another use
+Could part of the system serve an additional function?
+
+E — Eliminate
+What complexity could be removed?
+
+R — Reverse / Rearrange
+What if architecture or dependencies were inverted?
+
+---
+
+# Phase 3 — Cross-Solution Comparison
+
+After evaluating all candidates:
+
+Create a comparison based on:
+
+- complexity
+- scalability
+- maintainability
+- performance
+- implementation effort
+- long-term flexibility
+
+---
+
+# Phase 4 — Blue Hat (Decision)
+
+Control the reasoning process and produce the final decision.
+
+Tasks:
+
+- summarize insights from all analyses
+- identify the best solution
+- explain trade-offs
+- justify the decision
+
+---
+
+# Phase 5 — Execution Plan
+
+Provide a concrete implementation roadmap.
+
+Include:
+
+- architecture overview
+- components/modules
+- implementation steps
+- risks to monitor
+- possible future improvements
+
+---
+
+# Rules
+
+1. Never jump directly to a single solution.
+2. Always explore at least **three architectural approaches**.
+3. Always apply **Six Thinking Hats analysis**.
+4. Always include **SCAMPER expansion in the Green Hat phase**.
+5. The final recommendation must be justified with evidence from previous phases.
+6. Produce structured outputs using clear sections.
