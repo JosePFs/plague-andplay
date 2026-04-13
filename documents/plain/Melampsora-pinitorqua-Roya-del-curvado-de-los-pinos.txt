@@ -1,0 +1,19 @@
+PLAGA: Melampsora pinitorqua (Roya del curvado de los pinos)
+
+DESCRIPCION: El hongo Melampsora pinitorqua es una especie de roya, considerada como una forma especializada de Melampsora populnea, que provoca una patologia conocida como la roya del curvado de los pinos. Es un hongo basidiomicete perteneciente a los Uredinales. El hospedante principal es el pino, concretamente Pinus sylvestris, P. pinea y P. pinaster, aunque para completar el ciclo esta roya requiere la presencia del hospedante alternativo, que son diversas especies del genero Populus.
+
+SINTOMAS Y DANOS: Como primer sintomas observable, sobre las ramas de los pinos se aprecia la aparicion de pequenas gotas de resina que emanan de una zona chancrosa con alteracion de la corteza. A continuacion en esta zona se produce una destruccion del cambium de forma parcial o lateralizada, provocando diferencias de crecimiento entre las partes sanas y las enfermas, dando lugar a una curvatura mas o menos acusada. Sobre la zona chancrosa se forman los ecidios. Despues de la formacion de ecidios los brotes se mueren de forma que aparecen curvados, secos y con perdida de aciculas.
+
+PERIODO CRITICO: El factor mas importante para predecir una infeccion abundante es la presencia de alamos temblones, como hospedantes alternativos, cercanos a los pinos infectos. Las basidiosporas son efimeras y el riesgo de infeccion es importante cuando existen pinos en un radio de unos 150 metros alrededor de los alamos infectos.
+
+CONDICIONES CLIMATICAS QUE PROVOCAN LA PLAGA: Las condiciones de humedad durante la primavera favorecen la diseminacion de este hongo, ya que los pinos son mas susceptibles de ser infectos cuando estan produciendo bros nuevos. Los veranos humedos y templados favorecen el desarrollo del hongo en los chopos. Las temperaturas entre 15 y 25 grados Celsius con alta humedad son optimas.
+
+SEGUIMIENTO Y ESTIMACION DEL RIESGO: Observacion visual de danos y sintomas entre junio y octubre.
+
+MEDIDAS DE PREVENCION Y/O CULTURALES: Los pinos susceptibles se deben plantar al menos a 250 metros de los alamos temblones. Un metodo para evitar nuevas infectes seria eliminar las hojas caidas de los chopos que presentan telios antes de que finalice el invierno.
+
+UMBRAL/MOMENTO DE INTERVENCION: El mejor momento sera antes de que se produzca la dispersion de esporas, antes de primavera.
+
+MEDIDAS ALTERNATIVAS AL CONTROL QUIMICO: No se conocen medios quimicos para el control de esta enfermedad en masas forestares de pinar.
+
+MEDIOS QUIMICOS: No se conocen medios quimicos para el control de esta enfermedad en masas forestares de pinar.

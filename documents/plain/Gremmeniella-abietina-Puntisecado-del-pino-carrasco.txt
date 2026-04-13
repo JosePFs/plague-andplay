@@ -1,0 +1,19 @@
+PLAGA: Gremmeniella abietina (Puntisecado del pino carrasco)
+
+DESCRIPCION: Gremmeniella abietina es un hongo patogeno que causa graves e importantes danos en las coniferas del centro-norte de Europa, Norteamerica y este de Asia. En Espana se detecto por primera vez en 1933 en Pinus pinaster y P. sylvestris. Se conoce la susceptibilidad a la infeccion del hongo en casi 50 especies de coniferas entre las que se encuentran muchas especies presentes en Espania como Pinus halepensis, P. nigra, P. pinaster, P. pinea, P. radiata, P. sylvestris, y P. uncinata. El principal modo de infeccion es a traves de los conidios producidos por su fase asexual. El proceso de infeccion tiene lugar en primavera cuando los brotes jovenes estan en crecimiento.
+
+SINTOMAS Y DANOS: Los sintomas varian mucho en funcion del hospedante y de las condiciones de la estacion. Sobre pino carrasco en invierno se produce exudacion de resina en las yemas y formacion de tejido necrotico. Durante la primavera siguiente se observa puntisecado, crecimiento distorsionado de los ramillos terminales, la formacion de yemas adventicias e incluso la muerte de algunos pies. En plantulas de vivero, los sintomas mas frecuentes son la necrosis en la base del tallo que suele degenerar en un chancro.
+
+PERIODO CRITICO: Las condiciones de gran humedad durante la primavera y el verano favorecen la infeccion y el desarrollo de este hongo.
+
+CONDICIONES CLIMATICAS QUE PROVOCAN LA PLAGA: La humedad elevada es el factor climatico mas importante para el desarrollo de la enfermedad. Las primaveras y veranos lluviosos y humedos favorecen la infeccion y dispersion del hongo. Las temperaturas frias del invierno no inhiben completamente al patogeno, que puede crecer a temperaturas entre 5 y 20 grados Celsius. Los inviernos suaves permiten una mayor supervivencia del hongo. La combinacion de humedad y temperaturas moderadas favorece la esporulacion.
+
+SEGUIMIENTO Y ESTIMACION DEL RIESGO: El principal sintoma del hongo en Espana es la defoliacion de las copas y la presencia de ramillos curvados. El seguimiento de la enfermedad se puede realizar mediante la inspeccion de las masas de forma regular para evaluar el avance de la misma, principalmente en invierno y primavera.
+
+MEDIDAS DE PREVENCION Y/O CULTURALES: Se recomienda la eliminacion de los pies enfermos o con numerosos sintomas para reducir la fuente de inoculo, asi como prescindir de especies de temperamento termofilo en la reforestacion en regiones septentrionales o especialmente frias. Tambien se recomienda evitar las plantaciones con densidades muy altas.
+
+UMBRAL/MOMENTO DE INTERVENCION: No hay establecido un umbral de intervencion. El mejor momento seria en primavera.
+
+MEDIDAS ALTERNATIVAS AL CONTROL QUIMICO: Medios biologicos: Se han descrito diferentes mecanismos de antagonismo producido por hongos endofitos (Trichoderma spp., Gliocladium spp., Phaeotheca dimorphospora). Medios biotecnologicos: Mejora genetica en especies susceptibles.
+
+MEDIOS QUIMICOS: En viveros, se podran utilizar los productos fitosanitarios autorizados.

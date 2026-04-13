@@ -1,0 +1,9 @@
+pub mod forecast;
+pub mod forecast_repository;
+pub mod municipality;
+pub mod name;
+pub mod place;
+pub mod place_forecast_summary;
+pub mod plague;
+pub mod plague_repository;
+pub mod time;

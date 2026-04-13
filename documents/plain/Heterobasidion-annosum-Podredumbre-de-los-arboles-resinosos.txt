@@ -1,0 +1,19 @@
+PLAGA: Heterobasidion annosum (Podredumbre de los arboles resinosos)
+
+DESCRIPCION: Esta enfermedad es causada por el hongo basidiomicete Heterobasidion annosum, que pertenece al orden de los Aphillophorales y familia Poloporaceae. Dentro de las coniferas los generos mas sensibles son Abies, Picea y Pinus. Heterobasidion annosum se reproduce tanto de forma sexual como asexual. Este hongo puede vivir como saprofito en el sistema radical de tocones o actuar como patogeno infectando arbres sanos. La reproduccion sexual produce carpoforos, sobre los tocones o en la base de las plantas muertas.
+
+SINTOMAS Y DANOS: En Europa esta considerada como una de las enfermedades mas graves de coniferas. Los sintomas son muy similares a todos aquellos que se derivan de problemas en el sistema radical, como son falta de crecimiento, clorosis o caida de aciculas. Generally, en torno a un arnol muerto se observan pies con decaimiento y posteriormente corros de arboles muertos. Los pies afectados presentan menor crecimiento, clorosis y resinacion en algunos casos.
+
+PERIODO CRITICO: La produccion de esporas es muy alta durante el otono y primavera, los periodos mas humedos y calidos. Hay que destacar como un momento critico para la dispersion de este hongo el periodo posterior a una corta, ya que tras la corta las esporas se depositan sobre los tocones frescos iniciando asi la infeccion primaria.
+
+CONDICIONES CLIMATICAS QUE PROVOCAN LA PLAGA: La humedad elevada es fundamental para la dispersion y germinacion de las esporas. Los periodos humedos de primavera y otono favorecen la esporulacion. Las temperaturas suaves entre 15 y 25 grados Celsius son optimas para el desarrollo del hongo. Los inviernos frios no matan al hongo, que puede sobrevivir en el sistema radical. Las cortas en epocas de alta produccion de esporas (primavera y otono) facilitan la infeccion de los tocones.
+
+SEGUIMIENTO Y ESTIMACION DEL RIESGO: Este hongo se considera un patogeno de dificil deteccion en campo ya que no presenta una sintomatologia especifica. Los sintomas son muy similares a los que proceden de problemas en el sistema radical, por tanto para una identificacion precisa se requiere aislamiento y caracterizacion en laboratorio.
+
+MEDIDAS DE PREVENCION Y/O CULTURALES: Una de las principales medidas a aplicar es evitar los cultivos monoespecificos y favorecer las plantaciones mixtas con especies frondosas. Tambien es recomendable reducir la intensidad de las cortas y que estas se efectuen en periodos de escasa produccion de esporas, es decir, en invierno o verano. Destoconando, eliminando las raices o realizando zanjas de aislamiento de ejemplares afectados, se reduce la propagacion del hongo.
+
+UMBRAL/MOMENTO DE INTERVENCION: En zonas infectas hay que tratar siempre los tocones durante claras y cortas.
+
+MEDIDAS ALTERNATIVAS AL CONTROL QUIMICO: Medios biologicos: Se aplican suspensiones esporales de Phlebia gigantea sobre los tocones recien cortados.
+
+MEDIOS QUIMICOS: Tratar los tocones de forma preventiva con productos con actividad antifungica.

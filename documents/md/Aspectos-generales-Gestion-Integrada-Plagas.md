@@ -1,0 +1,75 @@
+# Aspectos Generales de la Gestión Integrada de Plagas
+
+Para la aplicación de la Gestión Integrada de Plagas, deberán tenerse en cuenta las siguientes consideraciones generales:
+
+## 1. Prioridad de métodos de control
+
+En el control de plagas se antepondrán, siempre que sea posible, los métodos biológicos, biotecnológicos, culturales y físicos a los métodos químicos. Estos métodos se utilizarán en el marco de estrategias que incluyan todos los aspectos de la explotación y del sistema de cultivo que favorezcan su control.
+
+Para el uso de medios biológicos y/o biotecnológicos (organismos de control biológico, trampas y otros dispositivos de monitoreo), sólo podrán utilizarse los inscritos como aptos para su comercialización en el Registro de Determinados Medios de Defensa Fitosanitaria del Ministerio de Agricultura, Pesca y Alimentación (https://www.mapa.gob.es/es/agricultura/temas/sanidad-vegetal/productos-fitosanitarios/registro-determinados-medios-de-defensa-fitosanitaria/)
+
+## 2. Evaluación del riesgo
+
+La evaluación del riesgo de cada plaga podrá realizarse mediante evaluaciones de los niveles poblacionales, su estado de desarrollo y presencia de fauna útil, fenología del cultivo, condiciones climáticas u otros parámetros de interés, llevadas a cabo en las parcelas sobre las que se ha de decidir una actuación. En el caso de plantaciones que se realicen de forma similar en diversas parcelas, se podrá establecer que la estimación del riesgo se realice en unidades territoriales homogéneas mayores.
+
+## 3. Momento de intervención
+
+La aplicación de medidas directas de control de plagas sólo se efectuará cuando los niveles poblacionales superen los umbrales de intervención, cuando estos se encuentren fijados. Salvo en los casos de intervenciones preventivas, las cuales deberán ser justificadas en cualquier caso.
+
+## 4. Selección de productos químicos
+
+En caso de resultar necesaria una intervención con productos químicos, las materias activas se seleccionarán siguiendo el criterio de elegir aquellas que proporcionen un control efectivo y sean lo más compatibles posible con organismos no objeto de control, evitando perjudicar a controladores naturales de plagas y a insectos beneficiosos como las abejas. Deberán presentar el menor peligro posible para humanos, ganado y generar el menor impacto para el medio ambiente en general.
+
+Además se tomarán las medidas oportunas para afectar lo menos posible a la biodiversidad, protegiendo la flora y la fauna en las inmediaciones de las parcelas. Las aplicaciones se realizarán con el equipo necesario y las condiciones climáticas adecuadas, evitando el viento en exceso para reducir el riesgo de deriva, las temperaturas elevadas que incrementan la evaporación de las gotas y los días con riesgo de lluvia, que podría lavar el producto.
+
+En todo caso,sólo podrán utilizarse en cada momento productos autorizados para el uso pretendido inscritos en el Registro de Productos Fitosanitarios del Ministerio de Agricultura, Pesca y Alimentación (https://www.mapa.gob.es/es/agricultura/temas/sanidad-vegetal/productos-fitosanitarios/fitos.asp), y aprobados expresamente para el cultivo en que se apliquen.
+
+## 5. Aplicación de productos químicos
+
+La aplicación de productos químicos se efectuará de acuerdo con sistemas de predicción y evaluación de riesgos, mediante las dosis, volúmenes de caldo, número, momento de aplicación y usos autorizados, tal y como se refleja en las indicaciones de la etiqueta, y cuando proceda, siguiendo las recomendaciones e instrucciones dictadas por el asesor.
+
+## 6. Registro de materias activas
+
+Se conservará un listado actualizado de todas las materias activas que son utilizadas para cada cultivo y en cada parcela y/o recinto SIGPAC. Este listado deberá tener en cuenta cualquier cambio en la legislación sobre fitosanitarios.
+
+## 7. Plazos de seguridad
+
+La presencia de residuos deberá minimizarse mediante cumplimiento estricto de los plazos de seguridad, para los que se encuentra autorizado el producto.
+
+## 8. Gestión de envases
+
+Con objeto de disminuir el riesgo de la contaminación proveniente de los restos de fitosanitarios que quedan en los envases de productos líquidos, se efectuará un triple enjuagado de los mismos después de su empleo. El agua de enjuagado se añadirá al tanque de aplicación.
+
+## 9. Restos de caldo
+
+En el caso de que quede líquido en el tanque por un exceso de mezcla, o si hay tanques de lavado,éstos deben aplicarse sobre el mismo cultivo, siempre que no supere la cantidad de materia activa por hectáreas permitida en la autorización del producto. No obstante, cuando estén disponibles, se dará preferencia a la eliminación de estos restos mediante instalaciones o dispositivos preparados para eliminar o degradar residuos de productos fitosanitarios, según lo dispuesto en el artículo 39 del Real Decreto 1311/2012. En el caso de no poder cumplir estas exigencias, se deberán gestionar por un gestor de residuos debidamente autorizado.
+
+## 10. Fitosanitarios caducados y envases vacíos
+
+Los fitosanitarios caducados solamente pueden gestionarse mediante un gestor de residuos autorizado. Los envases vacíos deben entregarse a los puntos de recogida del sistema colectivo que los ampara o al punto de venta, previamente enjuagados tres veces cuando se trate de productos líquidos.
+
+## 11. Maquinaria de tratamientos
+
+La maquinaria utilizada en los tratamientos fitosanitarios se someterá a revisión y calibrado periódico todos los años por el titular, así como a las revisiones oficiales establecidas en las disposiciones vigentes en la materia.
+
+## 12. Volumen de caldo y caudal de aire
+
+Los volúmenes máximos de caldo y caudal de aire en los tratamientos fitosanitarios se ajustarán a los parámetros precisos, teniendo en cuenta el estado fenológico del cultivo para obtener la máxima eficacia con la menor dosis.
+
+## 13. Protección de cursos de agua
+
+Con objeto de reducir la contaminación de los cursos de agua se recomienda establecer y mantener márgenes con cubierta vegetal a lo largo de los cursos de agua/canales.
+
+## 14. Biodiversidad en ecosistemas forestales
+
+Con objeto de favorecer la biodiversidad de los ecosistemas forestales (reservorios de fauna auxiliar) se recomienda establecer áreas no cultivadas en las proximidades a las parcelas de cultivo.
+
+## 15. Prácticas prohibidas
+
+- **a)** Utilización de calendarios de tratamientos, al margen de las intervenciones preventivas debidamente justificadas.
+
+- **b)** Abandonar el control fitosanitario antes de la finalización del ciclo vegetativo.
+
+- **c)** El vertido, en el agua y en zonas muy próximas a ella, de líquidos procedentes de la limpieza de la maquinaria de tratamiento.
+
+- **d)** Aplicar productos fitosanitarios en condiciones meteorológicas desfavorables.

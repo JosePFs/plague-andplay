@@ -1,0 +1,19 @@
+PLAGA: Sphaeropsis sapinea (Diplodia)
+
+DESCRIPCION: Esta enfermedad es causada por el hongo Sphaeropsis sapinea, que pertenece a la clase Deuteromycetes. Dentro de las coniferas el genero Pinus es el mas sensible al patogeno. Es un patogeno oportunista que se desarrolla en la planta al penetrar en los tejidos a traves de heridas causadas por fenomenos como granizo, vendavales, fendas de heladura, etc. Los factores que predisponen a una infeccion por Sphaeropsis sapinea son las condiciones ambientales extremas y los danos fisicos producidos por granizo o poda.
+
+SINTOMAS Y DANOS: Los ramillos infectos muestran todas sus aciculas con una tonalidad pardo-rojiza uniforme. Sobre las aciculas, en las zonas proximas a las vainas, se pueden observar inicialmente cuerpos de fructificacion de tipo picnidio, de color negro. En brotes, ramas y tronco los sintomas no son especificos y se confunden con facilidad con los sintomas producidos por otros agentes. La presencia de brotes que al poco tiempo de iniciar su desarrollo estan secos, ligeramente curvados y con presencia de aciculas atabacadas es un sintomas bastante indicativo de la enfermedad.
+
+PERIODO CRITICO: Los cuerpos de fructificacion se desarrollan generalmente en primavera y otono, y la dispersion de esporas tiene lugar desde marzo a octubre, durante los periodos de lluvia.
+
+CONDICIONES CLIMATICAS QUE PROVOCAN LA PLAGA: Los danos por granizo crean heridas que facilitan la entrada del hongo. Las condiciones climaticas extremas (temperaturas muy altas o muy bajas) debilitan los pinos. Los periodos de lluvia favorece la esporulacion y dispersion del hongo. Las temperaturas calidas entre 20 y 30 grados Celsius favorecen el desarrollo del patogeno. Los vendavales y tormentas pueden causar danos mecanicos que facilitan la infeccion.
+
+SEGUIMIENTO Y ESTIMACION DEL RIESGO: Seguimiento de las condiciones climaticas extremas (granizo) y observacion de los danos producidos.
+
+MEDIDAS DE PREVENCION Y/O CULTURALES: Se debe valorar la situacion de las plantaciones teniendo en cuenta las zonas donde el estresse hidrico sea mayor y aquellas zonas que puedan estar mas expuestas a danos por granizo. Evitar las podas en los periodos humedos cuando se dispersan las esporas. En viveros se recomienda usar planta con control sanitario y evitar altas densidades de siembra.
+
+UMBRAL/MOMENTO DE INTERVENCION: No hay establecido un umbral. El mejor momento para realizarlos sera entre noviembre y febrero.
+
+MEDIDAS ALTERNATIVAS AL CONTROL QUIMICO: Se podran utilizar los productos fitosanitarios autorizados.
+
+MEDIOS QUIMICOS: Se podran utilizar, en el caso de que existan, los productos fitosanitarios autorizados.

@@ -9,7 +9,7 @@ Architecture rules:
 1. The domain layer must not depend on infrastructure or UI.
 2. The application layer orchestrates use cases but contains no business rules.
 3. Infrastructure implements ports defined in domain or application.
-4. UI (Dioxus) only calls application services.
+4. UI only calls application services.
 
 Dependency direction:
 
