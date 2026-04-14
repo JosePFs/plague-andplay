@@ -18,6 +18,7 @@ use termimad::MadSkin;
 use crate::application::use_case::get_risk_summary::GetRiskSummaryUseCaseResult;
 use crate::domain::plague::PlagueType;
 
+const AGENT_MODEL: &str = "qwen/qwen3.5-35b-a3b";
 const REDRAW_MIN_INTERVAL: Duration = Duration::from_millis(1000);
 const REDRAW_MIN_NEW_BYTES: usize = 1024;
 
@@ -25,9 +26,9 @@ pub async fn run_prompt(risk_summary: &GetRiskSummaryUseCaseResult) -> Result<()
     let client = openai::Client::from_env().completions_api();
 
     let agent = client
-        .agent("qwen/qwen3.5-35b-a3b")
+        .agent(AGENT_MODEL)
         .preamble(
-            "You are an expert in plant pests and diseases, with a focus on pine phytosanitary management. \
+            "You act as an expert in plant pests and diseases, with a focus on pine phytosanitary management. \
 Always write your entire reply in clear, professional Spanish. \
 Use Markdown; prefer tables when they make the analysis easier to read. \
 Be **consistent** across runs: for the same input data, keep the **same report structure** (section order, table columns, and depth). \
